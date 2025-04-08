@@ -7,4 +7,10 @@ fait tourner le notebook reading-stac.ipynb de Planetary Computer sur Onyxia
     * => paramétrer le service s3 avec import **os** et import **s3fs** => voir doc onyxia "Stockage des données"  
     * => download avec import **requests** & from io import **BytesIO**  
 
+### 2025-04-07
+travailler sur code Python :
+  * affichage / téléchargement des images
+  * contenu des tables
+  * série longue de couverture nuageuse
+
 
