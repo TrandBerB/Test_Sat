@@ -8,9 +8,12 @@ fait tourner le notebook reading-stac.ipynb de Planetary Computer sur Onyxia
     * => download avec import **requests** & from io import **BytesIO**  
 
 ### 2025-04-07
-travailler sur code Python :
+travaillé sur code Python :
   * affichage / téléchargement des images
   * contenu des tables
   * série longue de couverture nuageuse
 
-
+### 2025-04-08
+travaillé sur Git (avec Chat GPT):
+ * mis à jour .gitignore : ne pas tracker les ipynb_checkpoints, les images (.tiff, .jpg) trop volumineuses 
+ * nettoyé les commits, mit en cohérence service Onyxia et GitHub  
